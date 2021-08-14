@@ -31,6 +31,10 @@ Java, Kotlin
 - badtrap: auto lava the logout spot of not friended players
 **More coming soon**
 
+# Screenshot:
+![ss1](https://user-images.githubusercontent.com/70171040/129447794-33a758a0-7e09-4222-97a9-7a939c4df0ed.png)
+
+
 # Download
 It is private, dont ask for it <3.
 
