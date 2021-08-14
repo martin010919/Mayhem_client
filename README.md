@@ -7,6 +7,7 @@
 # Requirements
 - **JDK 8** ([AdoptOpenJDK](https://adoptopenjdk.net/) or [Corretto](https://aws.amazon.com/corretto/) is recommended)
 - **[Git](https://git-scm.com)** (optional)
+- **Forge 1.12.2**
 
 # Copyright
 - Creepy Sal Hack by Ionar was used to make the basic modules. [here](https://github.com/CreepyOrb924/creepy-salhack)
@@ -26,3 +27,6 @@ Java, Kotlin
 - Sex dupe: Funny meme
 - badtrap: auto lava the logout spot of not friended players
 **More coming soon**
+
+# Download
+It is private, dont ask for it <3.
