@@ -21,7 +21,7 @@ Java, Kotlin
 
 # Not Skid features
 - TNT Mayhem: Fills every air block between 2 Y level: `>y1 ` `>y2 ` for setting the 2 Y level in
-- Nocom: Coord Exploit, made by the Nerds inc: Reconstructed from the brownman coord exploit
+- Nocom: Coord Exploit, made by the Nerds inc: Reconstructed https://github.com/martin010919/Mayhem_client/blob/main/README.md#copyrightfrom the brownman coord exploit
 - - Start it buy do >do nocom
 - highwaytravel: locks rotation, yaw, pitch, turns on entity control and sets in entity speed, enables autowalk: Made for easier nether travel with animals
 - Sex dupe: Funny meme
@@ -30,3 +30,6 @@ Java, Kotlin
 
 # Download
 It is private, dont ask for it <3.
+
+# Patch Notes:
+- `Added AvoidCaves feature for TNT Mayhem`
