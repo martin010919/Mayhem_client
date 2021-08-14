@@ -4,8 +4,8 @@
 - The Mayhem Client is a Private Client used by the 2b2t group Centrix. Developed by Me.
 - It is a 80% skid client so sources will be mentioned in the [Copyright section](https://github.com/martin010919/Mayhem_client/blob/main/README.md#copyright)
 - The Client is automatically updates, so you dont need to download it again after each patch
-- - But if you think it is a backdoor just look into the private access code. (Shared in Discord)
-- - And whe you sure it isnt a backdoor you can download it again
+  - But if you think it is a backdoor just look into the private access code. (Shared in Discord)
+  - And whe you sure it isnt a backdoor you can download it again
 
 # Requirements
 - **JDK 8** ([AdoptOpenJDK](https://adoptopenjdk.net/) or [Corretto](https://aws.amazon.com/corretto/) is recommended)
