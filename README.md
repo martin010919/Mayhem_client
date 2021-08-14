@@ -1,4 +1,3 @@
-![mayhem](https://user-images.githubusercontent.com/70171040/129448893-452bd7c4-3168-487a-abec-eaa3735b278a.png)
 # ![Mayhem](https://user-images.githubusercontent.com/70171040/129444795-e16df0cc-49b4-422d-8c61-17866b4c83dc.png)
 
 # Information
@@ -39,7 +38,7 @@ Java, Kotlin
 
 # Download
 It is private, dont ask for it <3.
-<a href="https://github.com/martin010919/Mayhem_client/releases/tag/v1.0"><img alt="Mayhem Client 2021-08-14 v1.0.jar" src="https://user-images.githubusercontent.com/70171040/129448905-a47e4de7-45bd-44aa-af85-da7afd1baf82.png" width="540" height="140"></a>
+<a href="https://bit.ly/3AJpyHy"><img alt="Mayhem Client 2021-08-14 v1.0.jar" src="https://user-images.githubusercontent.com/70171040/129448905-a47e4de7-45bd-44aa-af85-da7afd1baf82.png" width="540" height="140"></a>
 
 # Patch Notes:
 - `Added AvoidCaves feature for TNT Mayhem`
