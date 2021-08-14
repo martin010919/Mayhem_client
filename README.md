@@ -32,7 +32,8 @@ Java, Kotlin
 **More coming soon**
 
 # Screenshot:
-![ss1](https://user-images.githubusercontent.com/70171040/129447794-33a758a0-7e09-4222-97a9-7a939c4df0ed.png)
+![ss1](https://user-images.githubusercontent.com/70171040/129447885-14726bd4-d7fd-40e0-8db0-e0f0eaa0915c.jpg)
+
 
 
 # Download
